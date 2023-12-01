@@ -7,7 +7,6 @@ Original file is located at
     https://colab.research.google.com/drive/1_o6AJ1pkLrkznEGx8P9GSWvSdROK7qY6
 """
 
-task 6
 a=int(input())
 if a%2==0 or a%5==0:
   print("it is multiple of 2 or 5")
